@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.GridPane?>
 <?import javafx.scene.layout.RowConstraints?>
 
-<AnchorPane prefHeight="187.0" prefWidth="314.0" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="AddNewSubProject">
+<AnchorPane prefHeight="187.0" prefWidth="314.0" xmlns:fx="http://javafx.com/fxml" fx:controller="Controller">
    <children>
       <BorderPane layoutX="2.0" layoutY="-2.0" prefWidth="358.0">
          <center>
