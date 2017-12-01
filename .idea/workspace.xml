@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0e8fbd5f-267e-4b63-9ef9-2a29866fa169" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/addNewSubProject.fxml" afterPath="$PROJECT_DIR$/src/addNewSubProject.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/groupProjectDetails.fxml" afterPath="$PROJECT_DIR$/src/groupProjectDetails.fxml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,8 +79,8 @@
       <file leaf-file-name="addNewSubProject.fxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/addNewSubProject.fxml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+            <state relative-caret-position="462">
+              <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -683,12 +682,12 @@
       <updated>1512102308300</updated>
       <workItem from="1512130035080" duration="2615000" />
       <workItem from="1512132682224" duration="710000" />
-      <workItem from="1512133416907" duration="1413000" />
+      <workItem from="1512133416907" duration="1500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4738000" />
+    <option name="totallyTimeSpent" value="4825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1094,8 +1093,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/addNewSubProject.fxml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        <state relative-caret-position="462">
+          <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
           <folding />
         </state>
       </provider>
