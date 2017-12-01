@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e8fbd5f-267e-4b63-9ef9-2a29866fa169" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/addNewSubProject.fxml" afterPath="$PROJECT_DIR$/src/addNewSubProject.fxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/groupProjectDetails.fxml" afterPath="$PROJECT_DIR$/src/groupProjectDetails.fxml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="BirbPlusApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BirbPlusApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="391">
               <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -56,19 +56,19 @@
             <state relative-caret-position="205">
               <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
               <folding>
-                <marker date="1512134534451" expanded="true" signature="885:1094" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="911:1070" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="1223:3374" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="1244:2895" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="1292:2873" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="1748:1925" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="1783:1892" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="1965:2198" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="2235:2843" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="2919:3348" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="3016:3323" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="3046:3292" ph="..." />
-                <marker date="1512134534451" expanded="true" signature="3408:3534" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="885:1094" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="911:1070" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="1223:3372" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="1244:2895" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="1292:2873" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="1748:1925" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="1783:1892" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="1965:2198" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="2235:2843" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="2919:3346" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="3016:3321" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="3046:3290" ph="..." />
+                <marker date="1512134761164" expanded="true" signature="3406:3532" ph="..." />
               </folding>
             </state>
           </provider>
@@ -80,8 +80,8 @@
       <file leaf-file-name="addNewSubProject.fxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/addNewSubProject.fxml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="485">
+              <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -103,7 +103,7 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="322">
               <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -130,7 +130,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
               <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,8 +183,8 @@
         <option value="$PROJECT_DIR$/src/FreeLancer.java" />
         <option value="$PROJECT_DIR$/src/BirbPlusApplication.java" />
         <option value="$PROJECT_DIR$/src/mainView.fxml" />
-        <option value="$PROJECT_DIR$/src/addNewSubProject.fxml" />
         <option value="$PROJECT_DIR$/src/groupProjectDetails.fxml" />
+        <option value="$PROJECT_DIR$/src/addNewSubProject.fxml" />
       </list>
     </option>
   </component>
@@ -681,12 +683,12 @@
       <updated>1512102308300</updated>
       <workItem from="1512130035080" duration="2615000" />
       <workItem from="1512132682224" duration="710000" />
-      <workItem from="1512133416907" duration="1139000" />
+      <workItem from="1512133416907" duration="1413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4464000" />
+    <option name="totallyTimeSpent" value="4738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -801,7 +803,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -821,19 +825,19 @@
         <state relative-caret-position="920">
           <caret line="40" column="112" lean-forward="false" selection-start-line="40" selection-start-column="112" selection-end-line="40" selection-end-column="112" />
           <folding>
-            <marker date="1512134534451" expanded="true" signature="885:1094" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="911:1070" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1223:3374" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1244:2895" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1292:2873" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1748:1925" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1783:1892" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1965:2198" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="2235:2843" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="2919:3348" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="3016:3323" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="3046:3292" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="3408:3534" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="885:1094" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="911:1070" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1223:3372" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1244:2895" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1292:2873" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1748:1925" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1783:1892" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1965:2198" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="2235:2843" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="2919:3346" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="3016:3321" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="3046:3290" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="3406:3532" ph="..." />
           </folding>
         </state>
       </provider>
@@ -903,7 +907,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -923,19 +929,19 @@
         <state relative-caret-position="598">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <marker date="1512134534451" expanded="true" signature="885:1094" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="911:1070" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1223:3374" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1244:2895" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1292:2873" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1748:1925" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1783:1892" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1965:2198" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="2235:2843" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="2919:3348" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="3016:3323" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="3046:3292" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="3408:3534" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="885:1094" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="911:1070" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1223:3372" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1244:2895" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1292:2873" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1748:1925" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1783:1892" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1965:2198" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="2235:2843" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="2919:3346" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="3016:3321" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="3046:3290" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="3406:3532" ph="..." />
           </folding>
         </state>
       </provider>
@@ -974,16 +980,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainView.form" />
     <entry file="file://$PROJECT_DIR$/src/MainView.java" />
-    <entry file="file://$PROJECT_DIR$/src/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schemas/client/project_schema.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -996,48 +992,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FreeLancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BirbPlusApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mainView.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/addNewPositionRequirement.java">
@@ -1059,24 +1017,74 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainView.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BirbPlusApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FreeLancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/list.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/groupProjectDetails.fxml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
           <folding>
-            <marker date="1512134534451" expanded="true" signature="885:1094" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="911:1070" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1223:3374" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1244:2895" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1292:2873" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1748:1925" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1783:1892" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="1965:2198" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="2235:2843" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="2919:3348" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="3016:3323" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="3046:3292" ph="..." />
-            <marker date="1512134534451" expanded="true" signature="3408:3534" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="885:1094" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="911:1070" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1223:3372" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1244:2895" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1292:2873" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1748:1925" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1783:1892" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="1965:2198" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="2235:2843" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="2919:3346" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="3016:3321" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="3046:3290" ph="..." />
+            <marker date="1512134761164" expanded="true" signature="3406:3532" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1086,8 +1094,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/addNewSubProject.fxml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="485">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
           <folding />
         </state>
       </provider>

@@ -54,7 +54,7 @@
                   <TableView prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
                     <columns>
                       <TableColumn prefWidth="289.0" text="Job" />
-                      <TableColumn prefWidth="211.0" text="People Needed" />
+                      <TableColumn prefWidth="211.0" text="Description" />
                         <TableColumn prefWidth="95.0" text="Delete" />
                     </columns>
                   </TableView>

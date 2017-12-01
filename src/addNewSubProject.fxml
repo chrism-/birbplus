@@ -3,6 +3,7 @@
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.ChoiceBox?>
 <?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
@@ -22,12 +23,15 @@
               <rowConstraints>
                 <RowConstraints maxHeight="123.0" minHeight="10.0" prefHeight="87.0" vgrow="SOMETIMES" />
                 <RowConstraints maxHeight="113.0" minHeight="10.0" prefHeight="100.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="113.0" minHeight="10.0" prefHeight="100.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <Label text="Area" />
+                  <Label text="Job" />
                   <Label text="Number Of People " GridPane.rowIndex="1" />
                   <ChoiceBox prefWidth="150.0" GridPane.columnIndex="1" />
                   <TextField GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <Label text="Description" GridPane.rowIndex="2" />
+                  <TextArea prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
                </children>
             </GridPane>
          </center>
@@ -35,7 +39,7 @@
             <Button mnemonicParsing="false" text="Confirm" BorderPane.alignment="CENTER" />
          </bottom>
          <top>
-            <Label text="Label" BorderPane.alignment="CENTER" />
+            <Label text="Add New Job" BorderPane.alignment="CENTER" />
          </top>
       </BorderPane>
    </children>
