@@ -19,7 +19,7 @@
             <FlowPane alignment="CENTER" columnHalignment="CENTER" prefWidth="619.0" BorderPane.alignment="CENTER">
                <children>
                   <Button mnemonicParsing="false" text="Save" />
-                  <Button mnemonicParsing="false" text="Cancel" onAction="#handleCloseStage" />
+                  <Button mnemonicParsing="false" text="Cancel" />
                </children>
             </FlowPane>
          </bottom>
