@@ -1,13 +1,13 @@
 
 public class FreeLancer {
 
-	String name;
-	int id;
-	
-	String skills;
-	
-	String description;
-	double hireRate;
+	private String name;
+	private int id;
+
+	private String skills;
+
+	private String description;
+	private double hireRate;
 	
 	public FreeLancer(String name, int id, String skills, String description, double hireRate) {
 		super();
