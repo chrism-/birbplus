@@ -1,0 +1,35 @@
+{
+   "schema":"group projects",
+   "user-id":1234
+   "Group Project List":[
+       {
+       "name":"Group Project A",
+       "description":"I want to make a fire hydrant",
+       "budget":"$5000",
+       "roles":[
+                {"role":"Water engineer", "description":"Must engineer the water"},
+		{"role":"Metal Worker", "description":"Must make the fire hydrant"},
+                {"role":"Fire Man", "description":"Must test the fire hydrant"}
+               ]
+       },
+       {
+       "name":"Group Project B",
+       "description":"I want to bake a cake",
+       "budget":"$50",
+       "roles":[
+                {"role:":"Chicken","description":"Must provide eggs"},
+                {"role":"Cow","description":"Must provide milk"}
+               ]
+       }
+   ]
+}
+
+{
+        "schema":"group project",
+        "user-id":1234
+            {
+           #project stuff
+                    ]
+        "subproject-ids":[1,2,3,4]
+            }
+     }
