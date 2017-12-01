@@ -1,19 +1,38 @@
 from flask import Flask, url_for, Response, json, request
-import json as json2
+import os
 
 app = Flask(__name__)
 
-@app.route('/')
-def api_root():
-    return 'Welcome'
+@app.route('/add-proj', methods = ['POST'])
+def api_store_project():
+    if request.headers['Content-Type'] == 'application/json':
+        proj = request.get_json()
+        if 'projectID' in proj.keys():
+            for i in os.listdir('projectdb'):
+                if i == proj['projectID']:
+                    return 'project alraedy exists'
+        if 'projectOwnerID' in proj.keys():
+            for i in os.listdir('projectdb'):
+                if i == proj['projectOwnerID']:
+                    return 'proj'
+    else:
+        return '520? wrong data type'
 
-@app.route('/groups')
+@app.route('/delete-proj', method =['POST'])
+def api_delete_project():
+    return 'List of ' + url_for('api_articles')
+
+@app.route('/search-user-id', method =['POST'])
 def api_articles():
     return 'List of ' + url_for('api_articles')
 
-@app.route('/articles/<articleid>')
-def api_article(articleid):
-    return 'You are reading ' + articleid
+@app.route('/search-project-id', method=['POST'])
+def api_articles():
+    return 'List of ' + url_for('api_articles')
+
+@app.route('/search-project-name', method=['POST'])
+def api_articles():
+    return 'List of ' + url_for('api_articles')
 
 @app.route('/all-projects', methods = ['GET'])
 def api_hello():
@@ -28,40 +47,6 @@ def api_hello():
 
     return resp
 
-@app.route('/all-projects-id', methods = ['GET'])
-def api_get_projects_id():
-    if request.headers['Content-Type'] == 'application/json':
-        print(request.get_json())
-        return "JSON Message: " + json.dumps(request.json)
-    else:
-        return "id needs to be specified in json"
-    # data = {
-    #     'hello'  : 'world',
-    #     'number' : 3
-    # }
-    # js = json.dumps(data)
-    #
-    # resp = Response(js, status=200, mimetype='application/json')
-    # resp.headers['Link'] = 'http://luisrei.com'
-    #
-    # return resp
-
-# @app.route('/all-projects', methods = ['GET'])
-# def api_message():
-#     if request.headers['Content-Type'] == 'text/plain':
-#         return "Text Message: " + request.data
-#
-#     elif request.headers['Content-Type'] == 'application/json':
-#         return "JSON Message: " + json.dumps(request.json)
-#
-#     elif request.headers['Content-Type'] == 'application/octet-stream':
-#         f = open('./binary', 'wb')
-#         f.write(request.data)
-#                 f.close()
-#         return "Binary message written!"
-#
-#     else:
-#         return "415 Unsupported Media Type ;)"
 
 def get_user_projects(user):
     return
