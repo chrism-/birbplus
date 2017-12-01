@@ -1,0 +1,138 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "Title of the new project."
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the new project."
+    },
+    "currency": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "number",
+          "description": "Currency ID."
+        }
+      },
+      "required": [
+        "id"
+      ],
+      "description": "Currency object."
+    },
+    "budget": {
+      "type": "object",
+      "properties": {
+        "minimum": {
+          "type": "number",
+          "description": "Minimum budget. Decimal"
+        },
+        "maximum": {
+          "type": "number",
+          "description": "Maximum budget. Decimal"
+        },
+        "currency_id": {
+          "type": "number",
+          "description": "Currency of budget."
+        }
+      },
+      "required": [
+        "minimum"
+      ],
+      "description": "Budget object."
+    },
+    "jobs": {
+      "type": "array",
+      "description": "Jobs array containing suggested jobs of the freelancer."
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "FIXED",
+        "HOURLY"
+      ],
+      "description": "Project type"
+    },
+    "hourly_project_info": {
+      "type": "object",
+      "properties": {
+        "commitment": {
+          "type": "object",
+          "properties": {
+            "hours": {
+              "type": "number",
+              "description": "How many hours per interval are required."
+            },
+            "interval": {
+              "type": "string",
+              "enum": [
+                "WEEK",
+                "MONTH"
+              ],
+              "description": "How often commitment hours are required."
+            }
+          },
+          "required": [
+            "hours",
+            "interval"
+          ],
+          "description": "Commitment object."
+        },
+        "duration": {
+          "type": "string",
+          "enum": [
+            "LESS_THAN_ONE_WEEK",
+            "ONE_TO_FOUR_WEEKS",
+            "ONE_TO_THREE_MONTHS",
+            "THREE_TO_SIX_MONTHS",
+            "ONGOING",
+            "UNSPECIFIED"
+          ],
+          "description": "Duration of the project."
+        }
+      },
+      "required": [
+        "commitment"
+      ],
+      "description": "Hourly project information object."
+    },
+    "hireme": {
+      "type": "boolean",
+      "description": "Set to `true` to create a hireme project."
+    },
+    "hireme_initial_bid": {
+      "type": "object",
+      "properties": {
+        "bidder_id": {
+          "type": "number",
+          "description": "User ID of the hireme project bidder."
+        },
+        "amount": {
+          "type": "number",
+          "description": "Amount the hireme project is for. Decimal"
+        },
+        "period": {
+          "type": "number",
+          "description": "Number of days until the hireme project is expected to be completed."
+        }
+      },
+      "required": [
+        "bidder_id",
+        "amount",
+        "period"
+      ],
+      "description": "Hireme project details, if `hireme` is set to `true`."
+    }
+  },
+  "required": [
+    "title",
+    "description",
+    "currency",
+    "budget",
+    "jobs",
+    "hireme_initial_bid"
+  ]
+}

@@ -32,6 +32,7 @@ def get_user_projects(user):
 def get_user_project_id(id):
     return
 
+def search_projects():
 
 if __name__ == '__main__':
     app.run()

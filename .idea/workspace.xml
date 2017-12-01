@@ -11,11 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="birbend.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="birbend.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py/birbend.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="410">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project_schema.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/schemas/client/project_schema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -37,6 +47,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/py/birbend.py" />
+        <option value="$PROJECT_DIR$/json_templates/from_client/project_schema" />
       </list>
     </option>
   </component>
@@ -66,6 +77,17 @@
             <path>
               <item name="birbplus" type="b2602c69:ProjectViewProjectNode" />
               <item name="birbplus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="birbplus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="birbplus" type="462c0819:PsiDirectoryNode" />
+              <item name="schemas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="birbplus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="birbplus" type="462c0819:PsiDirectoryNode" />
+              <item name="schemas" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="birbplus" type="b2602c69:ProjectViewProjectNode" />
@@ -164,7 +186,15 @@
     <entry file="file://$PROJECT_DIR$/py/birbend.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schemas/client/project_schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding />
         </state>
       </provider>
