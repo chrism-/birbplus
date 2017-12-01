@@ -16,17 +16,22 @@
    <children>
       <BorderPane layoutX="21.0" prefHeight="400.0" prefWidth="600.0">
          <bottom>
-            <Button mnemonicParsing="false" text="Confirm" BorderPane.alignment="CENTER" />
+            <FlowPane alignment="CENTER" columnHalignment="CENTER" BorderPane.alignment="CENTER">
+               <children>
+                  <Button mnemonicParsing="false" text="Save" />
+                  <Button mnemonicParsing="false" text="Cancel" />
+               </children>
+            </FlowPane>
          </bottom>
          <center>
             <BorderPane BorderPane.alignment="CENTER">
                <top>
-                  <GridPane BorderPane.alignment="CENTER">
+                  <GridPane alignment="CENTER">
                       <Label text="Project Name:" GridPane.columnIndex="0" GridPane.rowIndex="0" />
                       <TextField GridPane.columnIndex="1" GridPane.rowIndex="0" />
                       <Label text="Description:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
                       <TextField GridPane.columnIndex="1" GridPane.rowIndex="1" />
-                     <FlowPane prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="5">
+                     <FlowPane alignment="CENTER" prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="5">
                         <children>
                            <Button mnemonicParsing="false" text="Add" />
                         </children>
@@ -57,7 +62,7 @@
             </BorderPane>
          </center>
          <top>
-            <Label prefHeight="17.0" prefWidth="149.0" text="Create A New Project" BorderPane.alignment="CENTER" />
+            <Label prefHeight="17.0" prefWidth="149.0" text="Project Detail" BorderPane.alignment="CENTER" />
          </top>
       </BorderPane>
    </children>
