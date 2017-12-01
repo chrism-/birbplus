@@ -16,7 +16,7 @@
    <children>
       <BorderPane layoutX="21.0" prefHeight="400.0" prefWidth="600.0">
          <bottom>
-            <FlowPane alignment="CENTER" columnHalignment="CENTER" BorderPane.alignment="CENTER">
+            <FlowPane alignment="CENTER" columnHalignment="CENTER" prefWidth="619.0" BorderPane.alignment="CENTER">
                <children>
                   <Button mnemonicParsing="false" text="Save" />
                   <Button mnemonicParsing="false" text="Cancel" />
@@ -24,14 +24,14 @@
             </FlowPane>
          </bottom>
          <center>
-            <BorderPane BorderPane.alignment="CENTER">
+            <BorderPane prefHeight="357.0" prefWidth="620.0" BorderPane.alignment="CENTER">
                <top>
                   <GridPane alignment="CENTER">
                       <Label text="Project Name:" GridPane.columnIndex="0" GridPane.rowIndex="0" />
                       <TextField GridPane.columnIndex="1" GridPane.rowIndex="0" />
                       <Label text="Description:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
                       <TextField GridPane.columnIndex="1" GridPane.rowIndex="1" />
-                     <FlowPane alignment="CENTER" prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="5">
+                     <FlowPane prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="5">
                         <children>
                            <Button mnemonicParsing="false" text="Add" />
                         </children>

@@ -51,28 +51,13 @@
       </file>
       <file leaf-file-name="groupProjectDetails.fxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/groupProjectDetails.fxml">
-          <provider editor-type-id="text-editor">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="205">
-              <caret line="33" column="49" lean-forward="false" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
-              <folding>
-                <marker date="1512134389491" expanded="true" signature="867:1076" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="893:1052" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="1113:3358" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="1168:3339" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="1189:2859" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="1237:2837" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="1712:1889" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="1747:1856" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="1929:2162" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="2199:2807" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="2883:3313" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="2980:3288" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="3010:3257" ph="..." />
-                <marker date="1512134389491" expanded="true" signature="3373:3499" ph="..." />
-              </folding>
+              <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+          <provider editor-type-id="JavaFX-Scene-Builder">
             <state />
           </provider>
         </entry>
@@ -681,12 +666,12 @@
       <updated>1512102308300</updated>
       <workItem from="1512130035080" duration="2615000" />
       <workItem from="1512132682224" duration="710000" />
-      <workItem from="1512133416907" duration="972000" />
+      <workItem from="1512133416907" duration="1006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4297000" />
+    <option name="totallyTimeSpent" value="4331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -820,22 +805,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="920">
           <caret line="40" column="112" lean-forward="false" selection-start-line="40" selection-start-column="112" selection-end-line="40" selection-end-column="112" />
-          <folding>
-            <marker date="1512134389491" expanded="true" signature="867:1076" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="893:1052" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1113:3358" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1168:3339" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1189:2859" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1237:2837" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1712:1889" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1747:1856" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1929:2162" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="2199:2807" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="2883:3313" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="2980:3288" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="3010:3257" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="3373:3499" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
@@ -923,22 +893,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <marker date="1512134389491" expanded="true" signature="867:1076" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="893:1052" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1113:3358" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1168:3339" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1189:2859" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1237:2837" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1712:1889" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1747:1856" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1929:2162" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="2199:2807" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="2883:3313" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="2980:3288" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="3010:3257" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="3373:3499" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
@@ -1073,28 +1028,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/groupProjectDetails.fxml">
-      <provider editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
-          <caret line="33" column="49" lean-forward="false" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
-          <folding>
-            <marker date="1512134389491" expanded="true" signature="867:1076" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="893:1052" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1113:3358" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1168:3339" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1189:2859" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1237:2837" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1712:1889" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1747:1856" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="1929:2162" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="2199:2807" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="2883:3313" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="2980:3288" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="3010:3257" ph="..." />
-            <marker date="1512134389491" expanded="true" signature="3373:3499" ph="..." />
-          </folding>
+          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+      <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
     </entry>
