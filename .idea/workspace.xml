@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e8fbd5f-267e-4b63-9ef9-2a29866fa169" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/groupProjectDetails.fxml" afterPath="$PROJECT_DIR$/src/groupProjectDetails.fxml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,12 +49,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="groupProjectDetails.fxml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="groupProjectDetails.fxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/groupProjectDetails.fxml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="278">
+              <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+              <folding>
+                <marker date="1512134248021" expanded="true" signature="3091:3136" ph="..." />
+                <marker date="1512134248021" expanded="true" signature="3091:3303" ph="..." />
+                <marker date="1512134248021" expanded="true" signature="3091:3318" ph="..." />
+                <marker date="1512134248021" expanded="true" signature="3091:3332" ph="..." />
+                <marker date="1512134248021" expanded="true" signature="3113:3117" ph="..." />
+                <marker date="1512134248021" expanded="true" signature="3151:3283" ph="..." />
+              </folding>
             </state>
           </provider>
           <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
@@ -62,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addNewSubProject.fxml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addNewSubProject.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/addNewSubProject.fxml">
           <provider editor-type-id="text-editor">
             <state relative-caret-position="207">
@@ -161,8 +168,8 @@
         <option value="$PROJECT_DIR$/src/FreeLancer.java" />
         <option value="$PROJECT_DIR$/src/BirbPlusApplication.java" />
         <option value="$PROJECT_DIR$/src/mainView.fxml" />
-        <option value="$PROJECT_DIR$/src/groupProjectDetails.fxml" />
         <option value="$PROJECT_DIR$/src/addNewSubProject.fxml" />
+        <option value="$PROJECT_DIR$/src/groupProjectDetails.fxml" />
       </list>
     </option>
   </component>
@@ -661,12 +668,12 @@
       <updated>1512102308300</updated>
       <workItem from="1512130035080" duration="2615000" />
       <workItem from="1512132682224" duration="710000" />
-      <workItem from="1512133416907" duration="630000" />
+      <workItem from="1512133416907" duration="835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3955000" />
+    <option name="totallyTimeSpent" value="4160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -800,7 +807,14 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="920">
           <caret line="40" column="112" lean-forward="false" selection-start-line="40" selection-start-column="112" selection-end-line="40" selection-end-column="112" />
-          <folding />
+          <folding>
+            <marker date="1512134248021" expanded="true" signature="3091:3136" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3091:3303" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3091:3318" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3091:3332" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3113:3117" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3151:3283" ph="..." />
+          </folding>
         </state>
       </provider>
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
@@ -888,7 +902,14 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1512134248021" expanded="true" signature="3091:3136" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3091:3303" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3091:3318" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3091:3332" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3113:3117" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3151:3283" ph="..." />
+          </folding>
         </state>
       </provider>
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
@@ -1000,17 +1021,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/groupProjectDetails.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/login.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -1027,6 +1037,24 @@
         <state relative-caret-position="207">
           <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groupProjectDetails.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <marker date="1512134248021" expanded="true" signature="3091:3136" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3091:3303" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3091:3318" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3091:3332" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3113:3117" ph="..." />
+            <marker date="1512134248021" expanded="true" signature="3151:3283" ph="..." />
+          </folding>
         </state>
       </provider>
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
